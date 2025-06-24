@@ -4,7 +4,7 @@
 🆕 Versión: 1.0.0
 
 📥 Descárgala aquí:
-🔗 https://drive.google.com/file/d/12Zk5ecqTlie4EL35ya9M1qVWGZX-JkHd/view?usp=drive_link
+🔗 La apk la encuentras en el archivo comprimido .zip
 
 📲 Detalles técnicos:
 * Compatibilidad: Diseñada para operar con la versión 17 de WMS.
